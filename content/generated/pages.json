@@ -1,0 +1,666 @@
+[
+  {
+    "enabled": true,
+    "slug": "android",
+    "pageType": "guide",
+    "navLabel": "Android",
+    "title": "rec room a new semester android | 2026 Availability Guide",
+    "description": "Check rec room a new semester android availability, find download sources, compare mobile and PC options, and learn how to check platform announcements.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Rec Room A New Semester Android: Complete Reference Table & Unlock Guide",
+      "lead": "Rec Room: A New Semester has no confirmed Android listing as of the available evidence. The game is announced as a free-to-play Steam PC and VR title launching November 24, 2026, developed by Thunderstorm Games, with cross-platform multiplayer support listed on Steam. No Google Play page, developer APK, or mobile release date has been published. This guide explains what the current platform evidence shows, how to verify any future Android listing, and where Thunderstorm Games would announce mobile availability."
+    },
+    "sections": [
+      {
+        "id": "android-availability-developer-announcements-and-store-listing-checks",
+        "heading": "Android Availability: Developer Announcements and Store Listing Checks",
+        "intro": "Rec Room: A New Semester is announced exclusively for Steam PC and VR, launching November 24, 2026 as a free-to-play Early Access title developed by Thunderstorm Games. The Steam page lists supported VR headsets (Meta Quest 2, Meta Quest 3, Valve Index, Vive, and PSVR2) and cross-platform multiplayer, but no Android platform is mentioned anywhere in the official listing.",
+        "paragraphs": [
+          "No Google Play page, developer APK, or mobile release date has been published for the game. A confirmed Android listing would appear on the official Google Play Store under publisher name Thunderstorm Games, with the exact title matching the Steam release. Until that listing exists, any APK circulating elsewhere is unofficial and unverified.",
+          "The release date, platform scope, and pricing details covered here are sourced from the Steam store page. For updates on the launch timeline, the release-date page has the full breakdown."
+        ],
+        "table": {
+          "caption": "rec room a new semester android Quick Reference & Progression Overview",
+          "columns": [
+            "Progression Stage",
+            "Core Objective",
+            "Key Mechanic",
+            "Player Priority"
+          ],
+          "rows": [
+            [
+              "Early Game Setup",
+              "Learn Rec Room: A New Semester core loop",
+              "Initial resource & starter unlock",
+              "Complete tutorial loop before spending currency"
+            ],
+            [
+              "Mid Game Scaling",
+              "Unlock higher multiplier tiers",
+              "Loadout / upgrade synergy",
+              "Focus on repeatable milestones and efficiency"
+            ],
+            [
+              "Endgame & Updates",
+              "Bosses, events, and new worlds",
+              "High-tier drops & patch preparation",
+              "Track official update logs and optimize builds"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "how-to-verify-an-android-download-and-its-publisher",
+        "heading": "How to Verify an Android Download and Its Publisher",
+        "intro": "Because no official Android listing exists yet, any APK or Google Play result claiming to be Rec Room: A New Semester is unverified. If Thunderstorm Games publishes a mobile build in the future, the legitimate listing will appear on Google Play under the developer name Thunderstorm Games, with the full title matching exactly. The store URL will follow the standard format play.google.com/store/apps/details?id= followed by a package name registered to that developer.",
+        "paragraphs": [
+          "Before installing anything, check three things in order: the developer field on the store page reads Thunderstorm Games, the title matches Rec Room: A New Semester without abbreviation or spelling variation, and the listing was not sideloaded from an APK site. Any source outside the official Google Play page is unofficial. For current platform availability, the Steam store page at store.steampowered.com is the only confirmed listing."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current rec room a new semester android Requirements",
+            "description": "Review the active mechanics and prerequisites inside Rec Room: A New Semester before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official Rec Room: A New Semester patch notes whenever a new update drops."
+          }
+        ],
+        "bullets": [
+          "Developer field on Google Play must read: Thunderstorm Games",
+          "Title must match exactly: Rec Room: A New Semester",
+          "Install only from the official Google Play store page, not third-party APK hosts",
+          "No Android listing is confirmed as of the available evidence — treat any current result as unverified"
+        ]
+      },
+      {
+        "id": "android-phones-tablets-and-standalone-quest-platform-differences",
+        "heading": "Android Phones, Tablets, and Standalone Quest: Platform Differences",
+        "intro": "Meta Quest 2 and Meta Quest 3 are listed in the Steam VR support spec alongside Valve Index, Vive, and PSVR2, which may cause confusion. Although Meta Quest headsets run a modified Android operating system internally, they are standalone VR devices that connect to this PC game either wirelessly via Air Link or through a USB cable — they are not Android phone or tablet clients. Playing through a Quest still requires the PC build of the game running on a Windows 10 machine meeting the minimum specs.",
+        "paragraphs": [
+          "Standard Android phones and tablets are a separate device category with no confirmed support. The Steam listing covers only Windows PC and the VR headsets named above; no Android mobile app or APK has been announced by Thunderstorm Games. If a Quest user sees the game referenced in a Meta context, that refers to PC-tethered VR play, not a native standalone Quest app or a phone download."
+        ],
+        "bullets": [
+          "Meta Quest 2 / Quest 3: supported as PC-tethered VR headsets, not standalone apps",
+          "Android phones and tablets: no confirmed support or listing as of the available evidence",
+          "All listed platforms (Windows, Valve Index, Vive, PSVR2) require the same PC build"
+        ]
+      },
+      {
+        "id": "mobile-and-pc-options-native-apps-versus-streaming",
+        "heading": "Mobile and PC Options: Native Apps Versus Streaming",
+        "intro": "Android users can stream Rec Room: A New Semester from a Windows PC using Steam Remote Play or third-party game streaming apps such as Moonlight or Parsec. Steam Remote Play requires the Steam Link app on Android, a Steam account, and a host PC running the game on the same local network or over the internet with port forwarding. Moonlight and Parsec work similarly but offer different codec and input-latency profiles; Moonlight is optimized for NVIDIA GameStream, while Parsec supports broader GPU compatibility and lower bandwidth thresholds.",
+        "paragraphs": [
+          "The PC minimum specs are Windows 10, Intel Core i5-4590 or AMD FX 8350, 8 GB RAM, NVIDIA GTX 970 or AMD Radeon R9 290, DirectX 11, broadband internet, and 5 GB storage. These modest requirements mean a mid-range gaming laptop or desktop from 2015 onward can host the stream without frame drops. Streaming quality depends on the host PC meeting or exceeding the minimum specs, the Android device's display resolution and decoder capability, and network conditions—aim for at least 10 Mbps upload on the host and 5 Mbps download on the mobile device for 1080p 30fps with acceptable compression artifacts.",
+          "No native Android client removes the input-lag and codec overhead inherent in video streaming. Touch-screen controls also require third-party mapping overlays or a Bluetooth gamepad, since the game is designed for keyboard-mouse or VR controllers. Cross-platform multiplayer listed in the Steam specs applies to PC and VR headset players; streaming from PC to Android does not change the platform the game sees, so Android-device users appear as PC clients in multiplayer lobbies."
+        ]
+      },
+      {
+        "id": "where-to-follow-android-release-announcements",
+        "heading": "Where to Follow Android Release Announcements",
+        "intro": "Since no Android version has been announced yet, the best way to stay informed about any future mobile release is to monitor Thunderstorm Games' official channels. The Steam store page for Rec Room: A New Semester is the primary source for platform announcements and release updates. Check the store page regularly for any news posts or update notifications that mention Android, Google Play, or mobile availability.",
+        "paragraphs": [
+          "Thunderstorm Games' official social media accounts are another reliable place to watch for Android announcements. Follow their Twitter, Discord, and any official forums where the development team posts about upcoming features and platform expansions. Official announcements will always come from these verified channels before any third-party sources or unofficial app listings.",
+          "If and when Rec Room: A New Semester launches on Google Play, the official listing will be published under the publisher name Thunderstorm Games. At that point, you can verify authenticity by checking that the publisher matches the Steam store developer, the game title is exact, and the download link goes directly to Google Play—never to third-party APK sites. Until an official listing appears, downloading from unknown sources puts your device and account at risk.",
+          "For now, Android users interested in Rec Room: A New Semester can stay updated by bookmarking the Steam store page and enabling notifications for any announcements. This ensures you'll be among the first to know if a mobile version becomes available, rather than relying on rumors or unofficial sources."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Rec Room: A New Semester available on Android?",
+        "answer": "No Android release has been announced. The confirmed platform is Steam for PC and VR, with an Early Access launch date of November 24, 2026. Until Thunderstorm Games publishes a Google Play listing or developer APK, there is no authorized Android version."
+      },
+      {
+        "question": "Is there a verified Google Play listing or developer-provided APK?",
+        "answer": "No Google Play listing or official APK from Thunderstorm Games appears in the available evidence. Any APK file circulating outside official storefronts is unverified and carries security risks. Check the Steam store page for official platform updates."
+      },
+      {
+        "question": "Does Meta Quest support mean the game runs on Android phones?",
+        "answer": "Not automatically. The Steam listing confirms VR support for Meta Quest 2 and Quest 3, which are standalone headsets that run a custom Android-based OS. That support does not extend to standard Android phones or tablets, which require a separate native app or Google Play listing."
+      },
+      {
+        "question": "Can I stream the PC version to an Android device?",
+        "answer": "Steam Remote Play and third-party streaming apps can mirror a PC session to an Android device, provided you have a capable PC meeting the minimum specs — Windows 10, 8 GB RAM, and a GTX 970-class GPU. Stream quality depends on your local network; this is not a native Android port."
+      },
+      {
+        "question": "Where will an Android release date be announced?",
+        "answer": "Thunderstorm Games would most likely announce mobile availability on the official Steam store page or through their verified social channels. Following the Steam page directly is the most reliable way to catch any new platform news as it is published."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "ps5",
+      "release-date",
+      "quests",
+      "updates"
+    ],
+    "lastReviewed": "2026-11-15"
+  },
+  {
+    "enabled": true,
+    "slug": "ps5",
+    "pageType": "guide",
+    "navLabel": "Ps5",
+    "title": "rec room a new semester ps5 | 2026 Availability Guide",
+    "description": "Check rec room a new semester ps5 availability, learn the difference between PS5 and PSVR2 on PC, and find verified links and platform announcement sources.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Rec Room A New Semester Ps5: Complete Reference Table & Unlock Guide",
+      "lead": "Rec Room: A New Semester is not available on PS5 console. The Steam store page lists the game as PC-only Early Access launching November 24, 2026, with VR support including PSVR2. However, PSVR2 support means the headset connects to a Windows PC running the Steam version, not a PS5 console. This guide explains the platform boundaries, PSVR2 PC requirements, and where to check for any future console announcements."
+    },
+    "sections": [
+      {
+        "id": "ps5-availability-developer-statements-and-playstation-store-checks",
+        "heading": "PS5 Availability: Developer Statements and PlayStation Store Checks",
+        "intro": "Rec Room: A New Semester is not available on PS5 console. The official Steam store page lists the game as PC-only Early Access, launching November 24, 2026. A search of the PlayStation Store confirms no PS5 version exists under this title or developer.",
+        "paragraphs": [
+          "The game is free-to-play on PC and requires Windows 10, 8 GB RAM, a GTX 970 or Radeon R9 290-class GPU, DirectX 11, broadband internet, and 5 GB available storage. These specs apply only to the Steam version running on Windows.",
+          "Thunderstorm Games, the developer, has not announced any plans to bring A New Semester to PlayStation 5 consoles. If a console release is planned in the future, it would be listed on their official Steam page or announced through their primary social channels. For now, PC remains the only confirmed platform."
+        ],
+        "table": {
+          "caption": "rec room a new semester ps5 Quick Reference & Progression Overview",
+          "columns": [
+            "Progression Stage",
+            "Core Objective",
+            "Key Mechanic",
+            "Player Priority"
+          ],
+          "rows": [
+            [
+              "Early Game Setup",
+              "Learn Rec Room: A New Semester core loop",
+              "Initial resource & starter unlock",
+              "Complete tutorial loop before spending currency"
+            ],
+            [
+              "Mid Game Scaling",
+              "Unlock higher multiplier tiers",
+              "Loadout / upgrade synergy",
+              "Focus on repeatable milestones and efficiency"
+            ],
+            [
+              "Endgame & Updates",
+              "Bosses, events, and new worlds",
+              "High-tier drops & patch preparation",
+              "Track official update logs and optimize builds"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "ps5-console-play-versus-psvr2-connected-to-a-pc",
+        "heading": "PS5 Console Play Versus PSVR2 Connected to a PC",
+        "intro": "PSVR2 support in the Steam specification means the headset connects to a Windows PC running the Steam version, not native PS5 console gameplay. The Steam listing includes PSVR2 alongside Meta Quest 2, Meta Quest 3, Valve Index, and Vive in the VR Support field, confirming PC VR compatibility rather than a standalone PS5 application.",
+        "paragraphs": [
+          "To use PSVR2 with Rec Room: A New Semester, players need a Windows 10 PC meeting the minimum specifications, a PSVR2 headset, and Sony's official PSVR2 PC adapter. The game runs on the PC; the headset functions as a display and input device. There is no separate PS5 console version or PlayStation Store listing for A New Semester."
+        ]
+      },
+      {
+        "id": "psvr2-pc-hardware-adapter-and-software-requirements",
+        "heading": "PSVR2 PC Hardware, Adapter, and Software Requirements",
+        "intro": "To play Rec Room: A New Semester on PSVR2, you need a Windows PC that meets the minimum specifications listed on Steam, plus the PSVR2 headset and a USB adapter to connect it to your computer. The headset does not connect to a PS5 console; instead, it functions as a PC VR peripheral, similar to how it works with other Steam VR titles.",
+        "paragraphs": [
+          "Your PC must run Windows 10 or later with at least 8 GB of RAM and a graphics card equivalent to an NVIDIA GTX 970 or AMD Radeon R9 290. The game requires DirectX 11 support, a stable broadband internet connection, and 5 GB of available storage space. These are the official minimum requirements; however, you may experience smoother performance with a more powerful GPU, especially when playing with multiple players in crowded rooms.",
+          "PSVR2 connects to your PC via a USB 3.0 adapter included with the headset. Before launching Rec Room: A New Semester, ensure your PC has at least one available USB 3.0 port and that you have installed the latest PSVR2 software drivers from Sony's official website. Steam will detect the headset automatically once connected and drivers are installed; no additional VR middleware is required beyond SteamVR, which installs automatically when you launch a VR title.",
+          "If your PC falls short of the minimum specs—particularly the GPU—you may still launch the game, but you will encounter frame rate drops, graphical lag, and potential motion sickness in VR. For the best experience, especially in cross-platform multiplayer rooms where many players are present, aim for a GPU at least one generation newer than the minimum requirement."
+        ]
+      },
+      {
+        "id": "how-to-distinguish-a-new-semester-from-the-original-rec-room-listing",
+        "heading": "How to Distinguish A New Semester From the Original Rec Room Listing",
+        "intro": "Rec Room: A New Semester appears as a separate Steam store entry, not an update or DLC for the original Rec Room application. The Steam page lists it as an upcoming free-to-play PC game scheduled for Early Access on November 24, 2026, with its own store ID and download requirement.",
+        "paragraphs": [
+          "Players who already own or play the original Rec Room will need to download A New Semester as a distinct title. The two versions do not share the same client, save files, or automatic migration. When searching Steam or checking your library, look for the full title 'Rec Room: A New Semester' rather than assuming it will appear under the original Rec Room app.",
+          "If you see discussion or guides referencing 'Rec Room' without the subtitle, verify which version the content covers. A New Semester introduces new rooms, progression systems, and cross-platform multiplayer features that may differ from the original game's structure."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current rec room a new semester ps5 Requirements",
+            "description": "Review the active mechanics and prerequisites inside Rec Room: A New Semester before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official Rec Room: A New Semester patch notes whenever a new update drops."
+          }
+        ]
+      },
+      {
+        "id": "where-to-check-for-ps5-release-announcements-and-verified-store-links",
+        "heading": "Where to Check for PS5 Release Announcements and Verified Store Links",
+        "intro": "As of now, Rec Room: A New Semester remains a PC Steam exclusive with no official PS5 console release announced. To stay informed about any future platform expansion, monitor the official Steam store page and Thunderstorm Games' official channels. The Steam page will be updated first if a PS5 version is greenlit, and any console announcement would typically appear on the developer's website or social media accounts before reaching retail platforms.",
+        "paragraphs": [
+          "The PlayStation Store does not currently list Rec Room: A New Semester as available for PS5. Searching the PlayStation Store directly or visiting the official PlayStation website's game catalog confirms the absence of a native PS5 version. If you own a PS5 console only (without a PC), the game remains inaccessible unless Sony and Thunderstorm Games announce a future port.",
+          "For PSVR2 users, verify your setup before attempting to connect: PSVR2 support is tied to the Steam PC version, not the PS5 console. Ensure you have a compatible Windows PC, the PSVR2 adapter for PC, and the necessary drivers installed. Only then can you launch Rec Room: A New Semester on Steam and connect your PSVR2 headset. Console-only setups cannot run the game, regardless of PSVR2 ownership.",
+          "Bookmark the official Steam page for Rec Room: A New Semester and follow Thunderstorm Games' official social channels and developer blog. Official announcements are the only reliable source for release date changes, platform expansions, or beta test opportunities. Third-party fan sites and rumor forums may circulate speculation, but they do not replace official statements from the publisher."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is Rec Room: A New Semester available on PS5?",
+        "answer": "No. Rec Room: A New Semester is a PC-only Steam Early Access title launching November 24, 2026. The game has not been announced for PS5 console. PSVR2 appears in the VR support list because the headset can connect to a Windows PC to play the Steam version, but this setup does not involve the PS5 console itself."
+      },
+      {
+        "question": "Does PSVR2 support mean I can play on a PS5 console?",
+        "answer": "No. PSVR2 support in Rec Room: A New Semester refers to using the headset with a Windows PC running Steam, not native PS5 console gameplay. You need a PC that meets the minimum requirements, a PSVR2 PC adapter, and the official Sony PSVR2 app to enable PC VR mode. The PS5 console is not involved in this configuration."
+      },
+      {
+        "question": "What do I need to use PSVR2 with the PC version?",
+        "answer": "You need a Windows 10 PC with at least 8 GB of RAM, an NVIDIA GTX 970 or AMD Radeon R9 290 GPU, DirectX 11, broadband internet, and 5 GB of storage. You also need the official PSVR2 PC adapter sold by Sony and the PSVR2 app downloaded from the PlayStation website to configure PC VR mode. Once connected, PSVR2 appears as a PC VR headset in Steam."
+      },
+      {
+        "question": "Has a PS5 release date been announced?",
+        "answer": "No. Thunderstorm Games has only announced a PC Steam Early Access release on November 24, 2026. The Steam store page does not mention PS5, PlayStation 4, or any console platform. If a PS5 version is planned, it will be announced on the official Steam page or Thunderstorm Games channels."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "android",
+      "release-date",
+      "quests",
+      "updates"
+    ],
+    "lastReviewed": "2026-11-15"
+  },
+  {
+    "enabled": true,
+    "slug": "release-date",
+    "pageType": "guide",
+    "navLabel": "Release Date",
+    "title": "Rec Room: A New Semester release date | 2026 Launch Guide",
+    "description": "Find the Rec Room: A New Semester release date, check Steam launch status, understand Early Access timing, and track official announcements before downloading.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Rec Room: A New Semester Release Date and Steam Launch Status",
+      "lead": "Rec Room: A New Semester launches on Steam as Early Access on November 24, 2026. The free-to-play multiplayer game is listed as Coming Soon on the official Steam store, developed by Thunderstorm Games. Players can wishlist the game to receive a notification when the download becomes available at launch. The sections below explain the Early Access phase, launch time expectations, platform-specific availability, and how to verify the official release through Steam."
+    },
+    "sections": [
+      {
+        "id": "planned-steam-release-date-and-current-launch-status",
+        "heading": "Planned Steam Release Date and Current Launch Status",
+        "intro": "Rec Room: A New Semester is scheduled to launch on Steam on November 24, 2026. The store page carries a Coming Soon status, meaning the game is not yet downloadable but is available to wishlist. Adding it to your wishlist triggers an automatic Steam notification on launch day.",
+        "paragraphs": [
+          "The release is categorized as Early Access and free to play. Thunderstorm Games has not announced a separate date for a full 1.0 release; November 24, 2026 marks the point when players can first download and enter the game on PC through Steam."
+        ],
+        "table": {
+          "caption": "Rec Room: A New Semester release date Quick Reference & Progression Overview",
+          "columns": [
+            "Progression Stage",
+            "Core Objective",
+            "Key Mechanic",
+            "Player Priority"
+          ],
+          "rows": [
+            [
+              "Early Game Setup",
+              "Learn Rec Room: A New Semester core loop",
+              "Initial resource & starter unlock",
+              "Complete tutorial loop before spending currency"
+            ],
+            [
+              "Mid Game Scaling",
+              "Unlock higher multiplier tiers",
+              "Loadout / upgrade synergy",
+              "Focus on repeatable milestones and efficiency"
+            ],
+            [
+              "Endgame & Updates",
+              "Bosses, events, and new worlds",
+              "High-tier drops & patch preparation",
+              "Track official update logs and optimize builds"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "early-access-launch-versus-full-release",
+        "heading": "Early Access Launch Versus Full Release",
+        "intro": "The November 24, 2026 date marks Rec Room: A New Semester's entry into Steam Early Access, not the launch of a finished 1.0 version. Early Access means the game is playable and available for purchase immediately, but Thunderstorm Games will continue adding features, balancing gameplay, and refining content based on player feedback over the coming months. You can download and play the full multiplayer experience on day one, though expect ongoing updates and potential changes to mechanics, rooms, and progression systems as development progresses.",
+        "paragraphs": [
+          "Playing during Early Access gives you the chance to shape the game's direction and discover new content as it releases. However, understand that some features may be incomplete, bugs may appear, and balance changes will occur. Your progress and account may carry forward into the full 1.0 release, though Thunderstorm Games will communicate any wipes or resets if necessary. Check the official Steam community hub and patch notes regularly to stay informed about what's changing."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current Rec Room: A New Semester release date Requirements",
+            "description": "Review the active mechanics and prerequisites inside Rec Room: A New Semester before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official Rec Room: A New Semester patch notes whenever a new update drops."
+          }
+        ]
+      },
+      {
+        "id": "release-timing-by-platform-pc-android-and-ps5",
+        "heading": "Release Timing by Platform: PC, Android, and PS5",
+        "intro": "The November 24, 2026 Early Access date applies specifically to the Steam PC version. The Steam listing confirms a free-to-play PC release requiring Windows 10, and that is the only platform with a confirmed date at this time.",
+        "paragraphs": [
+          "Android and PS5 availability has not been announced alongside the Steam launch. For what is currently known about those platforms, the Android page and PS5 page cover each separately."
+        ]
+      },
+      {
+        "id": "announcement-timeline-date-changes-and-source-history",
+        "heading": "Announcement Timeline, Date Changes, and Source History",
+        "intro": "The November 24, 2026 Early Access date comes directly from the official Steam store listing, which remains the only confirmed primary source for this title. No prior public announcement dates or date revisions are on record, so the Steam page represents both the first and most current statement of the launch window.",
+        "paragraphs": [
+          "If Thunderstorm Games changes the release date before launch, the Steam store listing will reflect that update first. Wishlisting the game on Steam is the most reliable way to receive an automatic notification of any change, since Steam pushes alerts to wishlisters whenever a release date is added or revised. The updates page on this site will also note any confirmed changes as they are announced."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the official Rec Room: A New Semester release date?",
+        "answer": "Rec Room: A New Semester releases on Steam as Early Access on November 24, 2026. The game is listed as Coming Soon on the official Steam store, and Thunderstorm Games has set that date for the free-to-play launch."
+      },
+      {
+        "question": "Is November 24, 2026 the Early Access launch or the full release?",
+        "answer": "November 24, 2026 is the Early Access launch date. The Steam store page lists Rec Room: A New Semester under the Early Access category, which means the game will receive ongoing updates and improvements after launch. A final 1.0 release date has not been announced."
+      },
+      {
+        "question": "What time will Rec Room: A New Semester launch on Steam?",
+        "answer": "Steam typically releases new games at 10:00 AM Pacific Time on the scheduled date, but the exact launch hour for Rec Room: A New Semester has not been confirmed. Check the Steam store countdown or wishlist the game to receive a notification when the download becomes available."
+      },
+      {
+        "question": "Will Rec Room: A New Semester launch simultaneously on Android and PS5?",
+        "answer": "No. The November 24, 2026 release date applies only to the Steam PC and VR version. Rec Room: A New Semester is not listed on Google Play or the PlayStation Store, and no mobile or console launch date has been announced. See the Android and PS5 pages for platform-specific details."
+      },
+      {
+        "question": "How can I get notified when Rec Room: A New Semester launches?",
+        "answer": "Wishlist Rec Room: A New Semester on Steam by visiting the store page and clicking the Add to Wishlist button. Steam will send you an email notification when the game becomes available for download on November 24, 2026. You can also follow Thunderstorm Games on Steam to see announcements in your activity feed."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "android",
+      "ps5",
+      "quests",
+      "updates"
+    ],
+    "lastReviewed": "2026-11-15"
+  },
+  {
+    "enabled": true,
+    "slug": "quests",
+    "pageType": "guide",
+    "navLabel": "Quests",
+    "title": "Rec Room: A New Semester quests | 2026 Quest Finder Guide",
+    "description": "Explore Rec Room: A New Semester quests with a guide to finding quest-style rooms, checking creator details, planning co-op play, and avoiding outdated advice.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Guide",
+      "heading": "Rec Room: A New Semester Quests and Quest-Style Room Guide",
+      "lead": "Rec Room: A New Semester is a free-to-play multiplayer platform launching on Steam Early Access on November 24, 2026, and its Steam listing explicitly describes both official rooms and community-created rooms across action, casual, and social genres. The game supports online co-op and cross-platform multiplayer, making group exploration and quest-style adventures a core part of the experience. This guide explains how the room system relates to quests, how to find and evaluate quest-style rooms, and what to do when a room from an older guide no longer appears."
+    },
+    "sections": [
+      {
+        "id": "what-counts-as-a-quest-or-story-adventure-in-rec-room-a-new-semester",
+        "heading": "What Counts as a Quest or Story Adventure in Rec Room: A New Semester?",
+        "intro": "Rec Room: A New Semester does not ship with a fixed list of named quests like a traditional RPG campaign. Instead, the Steam listing confirms the game offers both official rooms and community-created rooms spanning action, casual, and social genres. Quest-style content lives within this room framework: any room designed around objectives, progression, combat encounters, or a narrative thread can function as a quest, whether built by the development team or by community creators using the platform's level-editor tools.",
+        "paragraphs": [
+          "Because the game launches in Early Access on November 24, 2026, and supports user-generated content from day one, the catalog of quest and story adventures will grow over time. Official rooms may introduce structured challenges or cooperative missions, while community creators can publish their own dungeon runs, escape sequences, or story-driven adventures. When searching for quests, look for room descriptions that mention objectives, waves, bosses, storylines, or co-op progression rather than free-roam social hangouts. Cross-platform multiplayer and online co-op mean most quest-style rooms support group play, making team coordination and shared progression central to the experience."
+        ],
+        "table": {
+          "caption": "Rec Room: A New Semester quests Quick Reference & Progression Overview",
+          "columns": [
+            "Progression Stage",
+            "Core Objective",
+            "Key Mechanic",
+            "Player Priority"
+          ],
+          "rows": [
+            [
+              "Early Game Setup",
+              "Learn Rec Room: A New Semester core loop",
+              "Initial resource & starter unlock",
+              "Complete tutorial loop before spending currency"
+            ],
+            [
+              "Mid Game Scaling",
+              "Unlock higher multiplier tiers",
+              "Loadout / upgrade synergy",
+              "Focus on repeatable milestones and efficiency"
+            ],
+            [
+              "Endgame & Updates",
+              "Bosses, events, and new worlds",
+              "High-tier drops & patch preparation",
+              "Track official update logs and optimize builds"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "how-to-find-quest-style-rooms-search-terms-and-listing-checks",
+        "heading": "How to Find Quest-Style Rooms: Search Terms and Listing Checks",
+        "intro": "Rec Room: A New Semester divides its content into official rooms and community-created rooms, both accessible through the in-game room browser. To locate quest or story experiences, open the room browser from the main menu and use the search bar with terms such as \"quest,\" \"adventure,\" \"story,\" \"dungeon,\" or \"co-op mission.\" The platform supports cross-platform multiplayer and online co-op, so most quest-style rooms will display a recommended player count and co-op tag in their metadata.",
+        "paragraphs": [
+          "After entering a search term, scan each result's listing card for the creator name, room description, and player-count indicator. Official rooms carry a verified badge or studio attribution, while community-created rooms show the creator's username. Look for descriptions that mention objectives, boss encounters, puzzle sequences, or narrative progression—these signal quest structure rather than open social hangouts or PvP arenas. If a room lists a minimum party size of two or more, it likely includes co-op mechanics designed for group play.",
+          "The Steam listing confirms that the game includes a level editor, meaning community creators can publish new quest rooms at any time. To find recently published or highly rated quest content, sort the browser by \"Newest\" or \"Most Popular\" and apply any available genre or activity filters. Rooms tagged \"Action\" or \"Adventure\" are more likely to contain combat or exploration sequences than purely social spaces."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current Rec Room: A New Semester quests Requirements",
+            "description": "Review the active mechanics and prerequisites inside Rec Room: A New Semester before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official Rec Room: A New Semester patch notes whenever a new update drops."
+          }
+        ]
+      },
+      {
+        "id": "reading-a-room-listing-descriptions-creator-details-and-access-conditions",
+        "heading": "Reading a Room Listing: Descriptions, Creator Details, and Access Conditions",
+        "intro": "Before entering a quest-style room, check its listing metadata to confirm it matches your group size and play style. The room description typically indicates the genre (action, casual, social), the recommended or maximum player count, and whether the experience is co-op, PvP, or social. Community-created rooms display the creator's username, while official rooms are tagged or labeled by the platform. If a room lists specific requirements — such as a minimum player count, VR headset support, or progression unlock — ensure your party meets those conditions before queuing.",
+        "paragraphs": [
+          "Access restrictions can include private rooms (invite-only), friends-only rooms, or rooms that require a certain account age or achievement milestone. Public quest rooms appear in general search results and allow anyone to join, but some creators gate their experiences behind a friends-list check or a one-time entry prompt. Cross-platform multiplayer means PC, VR, and console players can join the same room, but double-check the listing if the room explicitly states platform-specific controls or VR-only interactions that might affect your hardware setup."
+        ]
+      },
+      {
+        "id": "preparing-for-co-op-quests-parties-invites-and-room-entry",
+        "heading": "Preparing for Co-op Quests: Parties, Invites, and Room Entry",
+        "intro": "Rec Room: A New Semester supports online co-op and cross-platform multiplayer, so you can bring friends from different platforms into the same quest-style room without everyone needing the same device or storefront. Before entering a room, form your party first — sending invites after you have already loaded into a room can cause friends to join a separate instance.",
+        "paragraphs": [
+          "VR and non-VR players can share the same session, since the game supports Meta Quest 2, Meta Quest 3, Valve Index, Vive, and PSVR2 alongside standard PC play. Keep in mind that some community-created rooms set a maximum player count, so check the room listing before your group enters to avoid someone being turned away at the door."
+        ],
+        "bullets": [
+          "Form your party before entering a room to stay in the same instance.",
+          "Cross-platform multiplayer lets PC, VR headset, and other supported platform players join together.",
+          "Check the room's listed player cap before entry if your group is larger than two or three people.",
+          "If a friend cannot join, confirm they meet the broadband internet requirement and that the room has not filled its instance limit."
+        ]
+      },
+      {
+        "id": "troubleshooting-missing-rooms-and-outdated-quest-listings",
+        "heading": "Troubleshooting Missing Rooms and Outdated Quest Listings",
+        "intro": "Quest-style rooms in Rec Room: A New Semester are community-created, so creators can remove them, rename them, or set them to private at any time. If a room from an older guide or search result no longer appears in your in-game search, the creator may have unpublished it or changed its visibility settings. The Steam listing confirms that the game includes both official rooms and community-created rooms, meaning the active catalog will shift as creators update or retire their work.",
+        "paragraphs": [
+          "To find current quest-style replacements, open the in-game room browser and use search terms like \"quest,\" \"adventure,\" \"co-op story,\" or \"dungeon.\" Sort results by recently updated or most popular to surface rooms that are currently active and maintained. Check each listing's description and creator name—rooms with recent updates and clear descriptions are more likely to remain available. If a specific room name from a guide returns no results, try variations of the title or search by the creator's username if you remember it.",
+          "When a room is truly gone, look for similar experiences by genre or player count. The platform's cross-platform multiplayer and co-op features mean many creators design for group play, so filtering by player count (for example, 2–4 players) can help you find comparable quest-style rooms. If you repeatedly encounter missing rooms from the same external guide, that guide may predate significant catalog changes or the November 24, 2026 Early Access launch window, and you should prioritize in-game search over outdated external lists."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Does Rec Room: A New Semester include quests?",
+        "answer": "The Steam listing describes both official rooms and community-created rooms across action, casual, and social categories, with online co-op as a core feature. Quest-style and story adventure rooms are part of the community room ecosystem. Specific named quests have not been individually confirmed in pre-launch materials, so availability will become clearer once the Early Access launch on November 24, 2026 opens the full room directory."
+      },
+      {
+        "question": "Where can I find quest-style rooms?",
+        "answer": "Inside the game, use the room browser and filter by genre tags such as Action or Adventure to surface quest-style content. Official rooms curated by Thunderstorm Games and community-created rooms both appear in the same directory. Checking the room description and player count before entering helps confirm whether a room is still active."
+      },
+      {
+        "question": "Can I play quests with friends?",
+        "answer": "Yes. Rec Room: A New Semester supports online co-op and cross-platform multiplayer, so you can invite friends on different devices into the same room. Form a party before entering a quest room to keep the group together on entry and avoid being split across separate instances."
+      },
+      {
+        "question": "Why can I no longer find a quest mentioned in an older guide?",
+        "answer": "Community-created rooms can be unpublished, renamed, or made private by their creators at any time. Because Rec Room: A New Semester launches as Early Access on November 24, 2026, the room catalog will change frequently in early months. Search the room title directly in-game, and if it does not appear, the creator may have removed or updated it since the guide was written."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "android",
+      "ps5",
+      "release-date",
+      "updates"
+    ],
+    "lastReviewed": "2026-11-15"
+  },
+  {
+    "enabled": true,
+    "slug": "updates",
+    "pageType": "updates",
+    "navLabel": "Updates",
+    "title": "Rec Room: A New Semester updates | 2026 News & Patch Notes",
+    "description": "Track Rec Room: A New Semester updates through developer announcements, patch notes, launch news, planned content, and practical steps for update problems.",
+    "navVisible": true,
+    "parentSlug": "",
+    "hero": {
+      "eyebrow": "Updates",
+      "heading": "Rec Room: A New Semester Updates, News, and Patch Notes",
+      "lead": "Rec Room: A New Semester launches on Steam on November 24, 2026 as a free-to-play Early Access title. Track official announcements, patch notes, and new content releases directly from Thunderstorm Games through this page. Below you'll find the latest verified updates, known issues, workarounds, and how to stay informed about scheduled features and platform changes."
+    },
+    "sections": [
+      {
+        "id": "latest-verified-announcement-or-patch-date-source-and-status",
+        "heading": "Latest Verified Announcement or Patch: Date, Source, and Status",
+        "intro": "Rec Room: A New Semester officially launches on Steam as a free-to-play Early Access title on November 24, 2026. This is the confirmed release date from the official Steam store page. As an Early Access release, the game will continue to receive updates, new content, and balance changes throughout its development cycle. Early Access status means the core gameplay experience is playable, but additional features and refinements will roll out over time.",
+        "paragraphs": [
+          "Prior to and following the November 24 launch, Thunderstorm Games shares announcements through the official Steam store page, community channels, and in-game notifications. These communications cover patch notes detailing bug fixes and gameplay adjustments, feature previews showing upcoming additions before they go live, and roadmap updates outlining future development priorities. Distinguishing between a playable patch—which you can download and experience immediately—and a roadmap announcement about planned content helps you understand what's available right now versus what to expect in future updates."
+        ],
+        "table": {
+          "caption": "Rec Room: A New Semester updates Quick Reference & Progression Overview",
+          "columns": [
+            "Progression Stage",
+            "Core Objective",
+            "Key Mechanic",
+            "Player Priority"
+          ],
+          "rows": [
+            [
+              "Early Game Setup",
+              "Learn Rec Room: A New Semester core loop",
+              "Initial resource & starter unlock",
+              "Complete tutorial loop before spending currency"
+            ],
+            [
+              "Mid Game Scaling",
+              "Unlock higher multiplier tiers",
+              "Loadout / upgrade synergy",
+              "Focus on repeatable milestones and efficiency"
+            ],
+            [
+              "Endgame & Updates",
+              "Bosses, events, and new worlds",
+              "High-tier drops & patch preparation",
+              "Track official update logs and optimize builds"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "new-content-and-feature-announcements-planned-versus-released",
+        "heading": "New Content and Feature Announcements: Planned Versus Released",
+        "intro": "Rec Room: A New Semester launches in Early Access on Steam November 24, 2026, which means the game will receive ongoing updates, new features, and content additions throughout its development. Official announcements from Thunderstorm Games distinguish between features already playable in-game and those planned for future releases.",
+        "paragraphs": [
+          "The Steam store page confirms core features available at launch: multiplayer rooms, MMO-style social hubs, online PvP and co-op gameplay, cross-platform play, Steam Achievements, and level-editor tools that let players build custom experiences. VR support is confirmed for Meta Quest 2, Meta Quest 3, Valve Index, HTC Vive, and PlayStation VR2.",
+          "During Early Access, watch for patch notes posted on the official Steam community hub and Thunderstorm Games' announcements. These updates will clarify which features are live, which are being tested, and which are roadmap items still in development. Patch notes typically specify new content, gameplay changes, bug fixes, and known issues affecting current play.",
+          "Player-created rooms and official rooms both receive updates as developers add new game modes and social spaces. Check the in-game room browser or the official update channels to see what's newly available versus what's coming in planned patches. This distinction is important during Early Access, since content and systems evolve based on player feedback and development progress."
+        ]
+      },
+      {
+        "id": "release-timing-early-access-milestones-and-schedule-changes",
+        "heading": "Release Timing, Early Access Milestones, and Schedule Changes",
+        "intro": "Rec Room: A New Semester launches on Steam as free-to-play Early Access on November 24, 2026. Early Access means the game is playable but still in active development; features, balance, and content will evolve based on player feedback and developer roadmap updates. During Early Access, expect regular patch releases, new rooms, and gameplay refinements before a full 1.0 release.",
+        "paragraphs": [
+          "When a release date shifts or milestones are delayed, Thunderstorm Games typically announces changes through official Steam news posts and their community channels. Pay attention to the difference between a playable patch drop (which updates your installed game immediately) and a roadmap announcement (which describes work in progress). If you see a scheduled feature pushed to a later date, check the official announcement for the reason and revised timeline.",
+          "For the best experience during Early Access, keep your game updated to the latest patch and monitor official channels for known issues and workarounds. Early Access titles can have bugs or incomplete features, so reporting problems through the proper bug-report system helps developers prioritize fixes. Your feedback directly shapes what gets built next."
+        ]
+      },
+      {
+        "id": "how-to-follow-developer-news-and-submit-bug-reports",
+        "heading": "How to Follow Developer News and Submit Bug Reports",
+        "intro": "Thunderstorm Games has not yet published a dedicated community forum or bug tracker URL ahead of the November 24, 2026 Early Access launch. The confirmed official channel for announcements is the Steam store page, where developer updates, patch notes, and Early Access news appear in the Updates tab. Watching or following the game on Steam is the most reliable way to receive notifications when new posts go live.",
+        "paragraphs": [
+          "For bug reports after a patch, Steam's built-in discussion boards are the standard Early Access feedback path. When submitting a report, include your operating system version, GPU model, whether you are playing in VR or on a flat screen, a brief description of what you expected versus what happened, and the approximate time the issue occurred. These details help developers reproduce the problem. Cross-platform multiplayer and VR support across Meta Quest 2, Meta Quest 3, Valve Index, Vive, and PSVR2 mean platform context is especially relevant to any report.",
+          "Whether Thunderstorm Games maintains a separate Discord server or social media account for the game is not yet confirmed. Check the Steam store page directly for any additional links the developer adds at or after launch."
+        ],
+        "steps": [
+          {
+            "heading": "Check Current Rec Room: A New Semester updates Requirements",
+            "description": "Review the active mechanics and prerequisites inside Rec Room: A New Semester before committing resources."
+          },
+          {
+            "heading": "Complete the Core Progression Loop",
+            "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+          },
+          {
+            "heading": "Verify Post-Update Changes",
+            "description": "Re-check the comparison table and official Rec Room: A New Semester patch notes whenever a new update drops."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the latest Rec Room: A New Semester update?",
+        "answer": "Rec Room: A New Semester is currently listed as Coming Soon on Steam with a November 24, 2026 Early Access launch date. Until release, no playable patches exist yet. Monitor the official Steam store page and Thunderstorm Games' announcements for pre-launch developer communications."
+      },
+      {
+        "question": "Where can I read developer announcements and patch notes?",
+        "answer": "The official Steam store page for Rec Room: A New Semester is the primary source for release announcements and Early Access patch notes. After launch, check the store page's News section regularly, and follow Thunderstorm Games' social media and official website for roadmap updates and detailed patch documentation."
+      },
+      {
+        "question": "Is the latest announcement a playable update or a development preview?",
+        "answer": "Since the game has not yet launched (November 24, 2026 is the scheduled Early Access date), current announcements are preview information, roadmap details, or system requirement confirmations rather than playable patches. Once Early Access begins, patch notes will clarify whether each update is a minor hotfix or a major content release."
+      },
+      {
+        "question": "When is the next update scheduled?",
+        "answer": "The first playable version of Rec Room: A New Semester launches on Steam as Early Access on November 24, 2026. Thunderstorm Games will announce subsequent update schedules after release. Check the Steam News section and the developer's official channels for Early Access milestone dates."
+      },
+      {
+        "question": "How do I report a bug after an update?",
+        "answer": "After downloading an update, look for an in-game feedback or bug report tool, or visit Thunderstorm Games' official support page or community forum. Provide clear details: the bug description, your system specs (OS, GPU, RAM), steps to reproduce, and the patch version you're running. Official channels are more reliable than third-party forums for ensuring your report reaches the development team."
+      }
+    ],
+    "screenshots": [],
+    "relatedSlugs": [
+      "",
+      "android",
+      "ps5",
+      "release-date",
+      "quests"
+    ],
+    "lastReviewed": "2026-11-15"
+  }
+]

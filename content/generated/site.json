@@ -1,5 +1,5 @@
 {
-  "readyForLaunch": false,
+  "readyForLaunch": true,
   "siteName": "Rec Room: A New Semester Guide",
   "shortName": "Rec Room: A New Semester",
   "description": "Explore Rec Room: A New Semester with verified Steam links, release details, platform checks, PC requirements, co-op information, and a clear starter guide.",
@@ -46,10 +46,10 @@
     "store.steampowered.com"
   ],
   "assets": {
-    "logo": "/images/rec-room-a-new-semester-logo.svg",
-    "cover": "/images/rec-room-a-new-semester-cover.svg",
+    "logo": "/images/rec-room-a-new-semester-logo.jpg",
+    "cover": "/images/rec-room-a-new-semester-game-cover.jpg",
     "openGraph": "/images/rec-room-a-new-semester-og.svg",
-    "favicon": "/images/rec-room-a-new-semester-logo.svg"
+    "favicon": "/images/rec-room-a-new-semester-logo.jpg"
   },
   "game": {
     "name": "Rec Room: A New Semester",
